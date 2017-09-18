@@ -998,6 +998,7 @@
 		D07F1EE5171AFB7A001DBA02 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PINCache/PINCache-Prefix.pch";
 				GCC_WARN_PEDANTIC = YES;
@@ -1012,6 +1013,7 @@
 		D07F1EE6171AFB7A001DBA02 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_CODE_COVERAGE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PINCache/PINCache-Prefix.pch";
 				GCC_WARN_PEDANTIC = YES;
